@@ -1,0 +1,22 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Platzi de Asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "emmanuel ramello <emmanuelramello@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript#readme"
+}
