@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript/issues"
   },
-  "homepage": "https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript#readme"
+  "homepage": "https://github.com/EmmanuelR84/Curso-de-Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
